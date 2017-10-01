@@ -1,5 +1,4 @@
 ## rsig: Randomized Sequential Image Generator
-==============================================
 
 #### History
 
